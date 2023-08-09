@@ -57,7 +57,7 @@ body{
     margin-right: 20px;
 } */
 .name .contact li{
-    padding:5px 0;
+    padding:5px 0 5px 5px;
     transform: translate(-40px);
     background-color: #E9E7EA;
 }
