@@ -41,11 +41,11 @@ body{
     font-weight: bold;
     letter-spacing: 3px;
 }
-.name .contact{
+/* .name .contact{
     padding:0;
     list-style: none;
-}
-.name .contact span{
+} */
+/* .name .contact span{
     display: inline-block;
     background-color: #000;
     width:20px;
@@ -55,7 +55,7 @@ body{
     border-radius: 50%;
     font-size: small;
     margin-right: 20px;
-}
+} */
 .name .contact li{
     padding:5px 0;
     transform: translate(-40px);
